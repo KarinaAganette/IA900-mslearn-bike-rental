@@ -104,6 +104,7 @@ Este exercício leva aproximadamente **35 minutos** para ser concluído.
 }
 
 
+---
 # 🚀 Limpeza do Projeto: Explore o Machine Learning Automatizado no Azure
 
 Após concluir o exercício de aprendizado de máquina automatizado no Azure Machine Learning, é essencial realizar a limpeza dos recursos utilizados para evitar cobranças desnecessárias e otimizar o uso da sua assinatura do Azure. Esta etapa envolve a exclusão de pontos de extremidade e, opcionalmente, do workspace do Azure Machine Learning.
