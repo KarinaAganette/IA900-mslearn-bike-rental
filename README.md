@@ -101,7 +101,6 @@ Este exercício leva aproximadamente **35 minutos** para ser concluído.
     "index": [0],
     "data": [[1, 1, 2022, 2, 0, 1, 1, 2, 0.3, 0.3, 0.3, 0.3]]
   }
-}
 
 
 ---
