@@ -101,7 +101,8 @@ Este exercício leva aproximadamente **35 minutos** para ser concluído.
     "index": [0],
     "data": [[1, 1, 2022, 2, 0, 1, 1, 2, 0.3, 0.3, 0.3, 0.3]]
   }
-´´´json
+}
+
 # 🚀 Limpeza do Projeto: Explore o Machine Learning Automatizado no Azure
 
 Após concluir o exercício de aprendizado de máquina automatizado no Azure Machine Learning, é essencial realizar a limpeza dos recursos utilizados para evitar cobranças desnecessárias e otimizar o uso da sua assinatura do Azure. Esta etapa envolve a exclusão de pontos de extremidade e, opcionalmente, do workspace do Azure Machine Learning.
@@ -146,6 +147,7 @@ Se você terminou de explorar o Azure Machine Learning, siga estas etapas para e
 3. Localize o grupo de recursos utilizado ao criar o workspace do Azure Machine Learning.
 4. Selecione o grupo de recursos e clique em **Excluir grupo de recursos**.
 5. Digite o **nome do grupo de recursos** para confirmar e clique em **Excluir**.
+
 
 
 
