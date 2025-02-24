@@ -90,7 +90,7 @@ Este exercício leva aproximadamente **35 minutos** para ser concluído.
 ### 2. Testar o Serviço Implantado
 1. Acesse **Pontos de Extremidade** e abra o ponto de extremidade **predict-rentals**.
 2. Vá para a guia **Teste** e use os seguintes dados de entrada:
-```json
+
 {
   "input_data": {
     "columns": [
@@ -102,8 +102,6 @@ Este exercício leva aproximadamente **35 minutos** para ser concluído.
     "data": [[1, 1, 2022, 2, 0, 1, 1, 2, 0.3, 0.3, 0.3, 0.3]]
   }
 }
-
-
 
 ---
 
@@ -151,6 +149,10 @@ Se você terminou de explorar o Azure Machine Learning, siga estas etapas para e
 3. Localize o grupo de recursos utilizado ao criar o workspace do Azure Machine Learning.
 4. Selecione o grupo de recursos e clique em **Excluir grupo de recursos**.
 5. Digite o **nome do grupo de recursos** para confirmar e clique em **Excluir**.
+
+
+
+
 
 
 
